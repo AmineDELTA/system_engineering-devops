@@ -1,2 +1,2 @@
-#!/usr/bin/env bash # Script that creates an empty file called hello.
+#!/bin/bash # Script that creates an empty file called hello.
 touch hello
