@@ -1,2 +1,2 @@
-#!/bin/bash # Script that creates an empty file called hello.
+#!/bin/bash
 touch hello
